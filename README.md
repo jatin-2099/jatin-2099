@@ -1,9 +1,8 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**jatin-2099/jatin-2099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+jatin-2099/jatin-2099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - 🔭 I’m currently working on ... designing my Porfolio using HTML
 - 🌱 I’m currently learning ... C programming and HTML
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... @jatin.2099 at Instagram
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ... I like anime, video games, music, crime novels and ofc PROGRAMMING!!!!😁😁
--->
+
